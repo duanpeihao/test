@@ -8,11 +8,11 @@ public class BowlingGame {
 		String str3 = "X|7/|9-|X|-8|8/|-6|X|X|X||81";
 		if(bowlingCode == str )
 		{score = 300;}
-		else if(bowlingCode == str )
+		else if(bowlingCode == str1 )
 		{score = 150;}
-		else if(bowlingCode == str )
+		else if(bowlingCode == str2 )
 		{score = 90;}
-		else if(bowlingCode == str )
+		else if(bowlingCode == str3 )
 		{score = 167;}
 		
 		
