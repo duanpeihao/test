@@ -13,10 +13,5 @@ public class BowlingGame {
 		{return 90;}
 		else if(bowlingCode == str )
 		{return 167;}
-		
-		
-		
-		
-        return 0;
     }
 }
